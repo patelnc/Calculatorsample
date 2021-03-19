@@ -13,7 +13,7 @@
 ## i have also executed this calculator on Heroku. Below is a link: 
 - https://npcalculator.herokuapp.com/
 
-## Please visit to Wiki tab on this page which will provide u more information about my Calculator design.
+## Please visit to Wiki tab on this page which will give u more information about Calculator project.
 
 ## Technologies used: 
 - HTML
