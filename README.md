@@ -8,6 +8,10 @@
 ## Steps to execute this calculator:
 - Download the entire code 
 - Open up the index.html.
+- Run in any browser.
+
+## i have also executed this calculator on Heroku. Below is a link: 
+- https://npcalculator.herokuapp.com/
 
 ## Technologies used: 
 - HTML
